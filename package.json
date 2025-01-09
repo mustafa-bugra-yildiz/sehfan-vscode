@@ -1,0 +1,21 @@
+{
+  "name": "sehfan",
+  "displayName": "sehfan",
+  "description": "Family warmth for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sehfan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sehfan-color-theme.json"
+      }
+    ]
+  }
+}
