@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.96.0"
   },
+  "publisher": "mustafabugrayildiz",
+  "repository": {
+    "url": "https://github.com/mustafa-bugra-yildiz/sehfan-vscode"
+  },
   "categories": [
     "Themes"
   ],
